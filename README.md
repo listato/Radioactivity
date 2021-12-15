@@ -11,11 +11,5 @@ There is no clearly defined critical mass here. Even with a low density we expec
 
 https://www.youtube.com/watch?v=LW-SYUyJGN0
 
-0:00 Introduction
-0:11 Changing radioactive atoms - no control rods
-1:05 Results 1
-1:16 50k radioactive atoms - changing control rods
-1:53 Results 2
-2:01 Comparison - Spaces vs. Rods
-2:12 Results 3
+
 
